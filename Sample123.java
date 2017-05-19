@@ -27,7 +27,7 @@ class Car implements iVehicle
 class Plane implements iVehicle
 {
 	private int flight;
-	
+	 
 	public Plane(int f)
 	{
 		flight = f;
