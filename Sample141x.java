@@ -5,10 +5,12 @@ class Sample141x
 	{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		String str = br.readLine();
-		int num = Integer.parseInt(str);
+		
 		
 		try{
+			String str = br.readLine();
+		int num = Integer.parseInt(str);
+			
 			int[] test;
 			test = new int[5];
 			System.out.println("test[4]‚É’l‚ğ‘ã“ü‚µ‚Ü‚·B");
